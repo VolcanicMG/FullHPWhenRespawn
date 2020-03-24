@@ -1,4 +1,4 @@
 # FullHPWhenRespawn
 You start with Full Hp when you respawn
-Fourms:
+Forums:
 https://forums.terraria.org/index.php?threads/fullhpwhenrespawn.86786/
