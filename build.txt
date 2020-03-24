@@ -1,0 +1,3 @@
+displayName = Full HP When Respawing
+author = Volcanic
+version = 1.0
