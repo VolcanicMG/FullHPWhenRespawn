@@ -1,2 +1,2 @@
 # FullHPWhenRespawn
-When you respawn you are able to have full HP
+You start with Full Hp when you respawn
