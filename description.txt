@@ -1,1 +1,10 @@
-Ever wanted to respawn with full HP? Well this is the mod for you!
+Have you ever wanted to just have full hp after you died without having to stop by the nurse ever time, well this is the mod for you.
+
+CHANGELOG:
+v1.0.0.2
+Added the homepage link
+Updated the decription
+
+
+v1.0.0.1
+Added in the mod icon
