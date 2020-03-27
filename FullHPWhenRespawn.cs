@@ -61,7 +61,7 @@ namespace FullHPWhenRespawn
 			{
 
 				// Our timer has finished, do something here:
-				Console.WriteLine("We made it revive time");
+				//Console.WriteLine("We made it revive time");
 				player.statLife = player.statLifeMax2;
 
 				Timer = 0;
