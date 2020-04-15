@@ -1,13 +1,1 @@
-Have you ever wanted to have full hp after you died without having to stop by the nurse every time, well this is the mod for you.
-
-
-CHANGELOG:
-v1.0.0.3
-Removed debug information within the console
-
-v1.0.0.2
-Added the homepage link
-Updated the decription
-
-v1.0.0.1
-Added in the mod icon
+Extra Explosives is a pretty cool mod, it does...this. Modify this file with a description of your mod.

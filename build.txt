@@ -1,4 +1,3 @@
-displayName = FullHPWhenRespawn
-author = Volcanic
-version = 1.0.0.4
-homepage = https://forums.terraria.org/index.php?threads/fullhpwhenrespawn.86786/
+displayName = Extra Explosives
+author = Volcanic & Codeloquence
+version = 0.1
