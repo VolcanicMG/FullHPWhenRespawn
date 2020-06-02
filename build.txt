@@ -1,3 +1,0 @@
-displayName = Extra Explosives
-author = Volcanic & Codeloquence
-version = 0.1
