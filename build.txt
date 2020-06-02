@@ -1,0 +1,4 @@
+displayName = FullHPWhenRespawn
+author = Volcanic
+version = 1.0.0.5
+homepage = https://forums.terraria.org/index.php?threads/fullhpwhenrespawn.86786/
