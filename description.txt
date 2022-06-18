@@ -1,5 +1,8 @@
 Have you ever wanted to have full hp after you died without having to stop by the nurse every time, well this is the mod for you.
 
+CHANGELOG:
+v1.0.0.6
+Updated the mod to 1.4
 
 CHANGELOG:
 v1.0.0.5

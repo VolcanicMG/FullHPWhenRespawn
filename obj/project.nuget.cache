@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oyq0kek/oakqCdOsJ+zTBjJGzOQxtofP5I26jE0Sjwag4CxW+AvFJqX+2jV+fk/1WHUs8M4IUKTg8XurZTHIkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ethan\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FullHPWhenRespawn\\FullHPWhenRespawn.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ethan\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
